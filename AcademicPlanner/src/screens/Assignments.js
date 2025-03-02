@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 
 import { View, Text, StyleSheet, FlatList, TouchableOpacity, Modal, TextInput, Button } from 'react-native';
